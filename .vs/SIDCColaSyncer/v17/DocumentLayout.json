@@ -1,10 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\SIDC\\SIDCColaSyncer\\",
+  "WorkspaceRootPath": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|d:\\sidc\\sidccolasyncer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|d:\\dev team\\colasyncer\\sidccolasyncer\\accounts\\controller\\colacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|solutionrelative:accounts\\controller\\colacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|d:\\dev team\\colasyncer\\sidccolasyncer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|d:\\dev team\\colasyncer\\sidccolasyncer\\infrastracture\\shared\\services\\sidcapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|solutionrelative:infrastracture\\shared\\services\\sidcapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|d:\\dev team\\colasyncer\\sidccolasyncer\\helper\\appsettinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|solutionrelative:helper\\appsettinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|d:\\dev team\\colasyncer\\sidccolasyncer\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|d:\\dev team\\colasyncer\\sidccolasyncer\\service\\colaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|solutionrelative:service\\colaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|d:\\dev team\\colasyncer\\sidccolasyncer\\service\\mysqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|solutionrelative:service\\mysqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|d:\\dev team\\colasyncer\\sidccolasyncer\\model\\dtos\\sidcapis\\colaapi\\getcolastub\\colastubapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|solutionrelative:model\\dtos\\sidcapis\\colaapi\\getcolastub\\colastubapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|d:\\dev team\\colasyncer\\sidccolasyncer\\model\\dtos\\sidcapis\\colaapi\\getcolastub\\colastubresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|solutionrelative:model\\dtos\\sidcapis\\colaapi\\getcolastub\\colastubresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|d:\\dev team\\colasyncer\\sidccolasyncer\\model\\dtos\\sidcapis\\colaapi\\getcolastub\\colastubrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|solutionrelative:model\\dtos\\sidcapis\\colaapi\\getcolastub\\colastubrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|d:\\dev team\\colasyncer\\sidccolasyncer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|d:\\dev team\\colasyncer\\sidccolasyncer\\model\\dtos\\sidcapis\\sidcapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|solutionrelative:model\\dtos\\sidcapis\\sidcapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|d:\\dev team\\colasyncer\\sidccolasyncer\\model\\dtos\\sidcapis\\sidcbaseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF13E57-99E8-46ED-8E94-15184F36CAC3}|SIDCColaSyncer.csproj|solutionrelative:model\\dtos\\sidcapis\\sidcbaseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +62,183 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SIDC\\SIDCColaSyncer\\Program.cs",
+              "DocumentMoniker": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\SIDC\\SIDCColaSyncer\\Program.cs",
+              "ToolTip": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwB4AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T05:33:37.46Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Properties\\Settings.settings",
+              "ToolTip": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\Properties\\Settings.settings",
+              "RelativeToolTip": "Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-05-20T13:03:48.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ColaController.cs",
+              "DocumentMoniker": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\Accounts\\Controller\\ColaController.cs",
+              "RelativeDocumentMoniker": "Accounts\\Controller\\ColaController.cs",
+              "ToolTip": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\Accounts\\Controller\\ColaController.cs",
+              "RelativeToolTip": "Accounts\\Controller\\ColaController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwEYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:42:27.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ColaStubApiResponse.cs",
+              "DocumentMoniker": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\Model\\DTOs\\SIDCAPIs\\ColaAPI\\GetColaStub\\ColaStubApiResponse.cs",
+              "RelativeDocumentMoniker": "Model\\DTOs\\SIDCAPIs\\ColaAPI\\GetColaStub\\ColaStubApiResponse.cs",
+              "ToolTip": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\Model\\DTOs\\SIDCAPIs\\ColaAPI\\GetColaStub\\ColaStubApiResponse.cs",
+              "RelativeToolTip": "Model\\DTOs\\SIDCAPIs\\ColaAPI\\GetColaStub\\ColaStubApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:53:38.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SIDCAPIService.cs",
+              "DocumentMoniker": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\Infrastracture\\Shared\\Services\\SIDCAPIService.cs",
+              "RelativeDocumentMoniker": "Infrastracture\\Shared\\Services\\SIDCAPIService.cs",
+              "ToolTip": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\Infrastracture\\Shared\\Services\\SIDCAPIService.cs",
+              "RelativeToolTip": "Infrastracture\\Shared\\Services\\SIDCAPIService.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAkwHQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:57:31.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ColaStubResponse.cs",
+              "DocumentMoniker": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\Model\\DTOs\\SIDCAPIs\\ColaAPI\\GetColaStub\\ColaStubResponse.cs",
+              "RelativeDocumentMoniker": "Model\\DTOs\\SIDCAPIs\\ColaAPI\\GetColaStub\\ColaStubResponse.cs",
+              "ToolTip": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\Model\\DTOs\\SIDCAPIs\\ColaAPI\\GetColaStub\\ColaStubResponse.cs",
+              "RelativeToolTip": "Model\\DTOs\\SIDCAPIs\\ColaAPI\\GetColaStub\\ColaStubResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:50:35.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppSettingHelper.cs",
+              "DocumentMoniker": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\Helper\\AppSettingHelper.cs",
+              "RelativeDocumentMoniker": "Helper\\AppSettingHelper.cs",
+              "ToolTip": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\Helper\\AppSettingHelper.cs",
+              "RelativeToolTip": "Helper\\AppSettingHelper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:15:41.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MySQLHelper.cs",
+              "DocumentMoniker": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\Service\\MySQLHelper.cs",
+              "RelativeDocumentMoniker": "Service\\MySQLHelper.cs",
+              "ToolTip": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\Service\\MySQLHelper.cs",
+              "RelativeToolTip": "Service\\MySQLHelper.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAiwKMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:30:32.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ColaQuery.cs",
+              "DocumentMoniker": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\Service\\ColaQuery.cs",
+              "RelativeDocumentMoniker": "Service\\ColaQuery.cs",
+              "ToolTip": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\Service\\ColaQuery.cs",
+              "RelativeToolTip": "Service\\ColaQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:45:34.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-20T13:05:15.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ColaStubRequest.cs",
+              "DocumentMoniker": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\Model\\DTOs\\SIDCAPIs\\ColaAPI\\GetColaStub\\ColaStubRequest.cs",
+              "RelativeDocumentMoniker": "Model\\DTOs\\SIDCAPIs\\ColaAPI\\GetColaStub\\ColaStubRequest.cs",
+              "ToolTip": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\Model\\DTOs\\SIDCAPIs\\ColaAPI\\GetColaStub\\ColaStubRequest.cs",
+              "RelativeToolTip": "Model\\DTOs\\SIDCAPIs\\ColaAPI\\GetColaStub\\ColaStubRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:50:20.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SIDCApiSettings.cs",
+              "DocumentMoniker": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\Model\\DTOs\\SIDCAPIs\\SIDCApiSettings.cs",
+              "RelativeDocumentMoniker": "Model\\DTOs\\SIDCAPIs\\SIDCApiSettings.cs",
+              "ToolTip": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\Model\\DTOs\\SIDCAPIs\\SIDCApiSettings.cs",
+              "RelativeToolTip": "Model\\DTOs\\SIDCAPIs\\SIDCApiSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:48:13.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SIDCBaseResponse.cs",
+              "DocumentMoniker": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\Model\\DTOs\\SIDCAPIs\\SIDCBaseResponse.cs",
+              "RelativeDocumentMoniker": "Model\\DTOs\\SIDCAPIs\\SIDCBaseResponse.cs",
+              "ToolTip": "D:\\DEV TEAM\\ColaSyncer\\SIDCColaSyncer\\Model\\DTOs\\SIDCAPIs\\SIDCBaseResponse.cs",
+              "RelativeToolTip": "Model\\DTOs\\SIDCAPIs\\SIDCBaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:48:22.845Z",
               "EditorCaption": ""
             }
           ]

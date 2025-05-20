@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SIDCColaSyncer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="HOST" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="USERNAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="PASSWORD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c3VwZXJ2aXNvcg==</Value>
+    </Setting>
+    <Setting Name="PORT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3306</Value>
+    </Setting>
+    <Setting Name="BASE_URL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://161.49.105.231:7557/spork_api_staging/api</Value>
+    </Setting>
+    <Setting Name="DESTINATION_DB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">im_main</Value>
+    </Setting>
+    <Setting Name="COLA_STUB_URL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/cola_stub.php</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
