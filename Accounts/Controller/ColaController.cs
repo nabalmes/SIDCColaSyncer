@@ -6,6 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
+using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -86,6 +87,34 @@ namespace SIDCColaSyncer.Accounts.Controller
                     
 
                 con.CloseConnection();
+            }
+        }
+
+        public void MarkAsInserted(string branchCode)
+        {
+            string BASE_URL = Properties.Settings.Default.BASE_URL.TrimEnd('/');
+            string COLA_STUB_URL = Properties.Settings.Default.COLA_STUB_URL.TrimStart('/');
+            string fullUrl = $"{BASE_URL}/{COLA_STUB_URL}";
+
+            using (var client = new HttpClient())
+            {
+                var values = new Dictionary<string, string>
+            {
+                { "branchCode", branchCode },
+                { "isInsertUpdate", "1" }
+            };
+
+                var content = new FormUrlEncodedContent(values);
+                var response = client.PostAsync(fullUrl, content).Result;
+
+                if (!response.IsSuccessStatusCode)
+                {
+                    Console.WriteLine($"Error updating insert status: {response.StatusCode}");
+                }
+                else
+                {
+                    Console.WriteLine("Successfully marked data as inserted.");
+                }
             }
         }
 

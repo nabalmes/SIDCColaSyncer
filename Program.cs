@@ -1,4 +1,5 @@
 ﻿using SIDCColaSyncer.Accounts.Controller;
+using SIDCColaSyncer.Helper;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -32,10 +33,12 @@ namespace SIDCColaSyncer
                     //var localColaStub = membersController.GetMembersLocal();
                     //var localFiles = membersController.GetFilesLocal();
                     //membersController.MainProcessA(localMembers, localFiles);
+                    var branchCode = AppSettingHelper.GetSetting("branchCode");
 
                     if (apiColaStub.Count > 0)
                     {
                         colaController.MainProcess(apiColaStub);
+                        colaController.MarkAsInserted(branchCode);
                         Console.WriteLine("\nAll processes are completed. Thank you!");
                         Thread.Sleep(10000);
                         System.Environment.Exit(1);
